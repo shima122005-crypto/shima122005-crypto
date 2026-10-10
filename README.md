@@ -107,14 +107,14 @@ A short description of the application and its purpose.
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=shima122005-crypto&show_icons=true&theme=default&hide_border=true"
     alt="GitHub Statistics"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shima122005-crypto&layout=compact&theme=default&hide_border=true"
     alt="Most Used Languages"
   />
 </p>
@@ -158,7 +158,7 @@ make a positive impact. 💚
 ## 💌 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/shima122005-crypto">
     <img
       src="<h1 align="center">Hi, I'm Shaimaa Hassan 👋🌸</h1>
 
@@ -269,14 +269,14 @@ A short description of the application and its purpose.
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=shima122005-crypto&show_icons=true&theme=default&hide_border=true"
     alt="GitHub Statistics"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shima122005-crypto&layout=compact&theme=default&hide_border=true"
     alt="Most Used Languages"
   />
 </p>
@@ -317,16 +317,18 @@ make a positive impact. 💚
 
 ---
 
+
 ## 💌 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/shima122005-crypto">
     <img
       src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
       alt="GitHub"
     />
   </a>
 </p>
+
 
 <!-- Add your other public links when ready:
 
